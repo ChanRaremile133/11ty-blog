@@ -9,12 +9,12 @@ eleventyNavigation:
   key: Kids
   order: 2
 ---
-Read Charlie’s tips for keeping safe around dogs and not cats!
+Read Charlie’s tips for keeping safe around dogs and not cats and not **rats**!
 
 * See all [Charlie’s Dog Safety Tips for Kids](/under-construction/).
 * Try our [Safety Quiz](/under-construction/).
 * Find out lots [About Dogs](/under-construction/).
-* See what Charlie’s pals are up to: read our [Dog Stories](/under-construction/).
+* See what Charlie’s pals are up to: *read* our [Dog Stories](/under-construction/).
 * Try your paw, er hand, at [Dog Fun](/under-construction/)!
 
 If you have any suggestions, do let us know.
